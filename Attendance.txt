@@ -1,4 +1,4 @@
 StudentID : 2213110071
 Full name(english) : Thanpisit chanarsai
 AKA:shokun
-Classdetail: Control statement & Confirm dialog	
+Classdetail: Lab Sheet 4 : String Methods and Defined Method
