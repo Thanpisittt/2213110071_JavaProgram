@@ -1,4 +1,5 @@
+Date : 08-Dec-2022
 StudentID : 2213110071
 Full name(english) : Thanpisit chanarsai
 AKA:shokun
-Classdetail: Lab Sheet 4 : String Methods and Defined Method
+Classdetail: User-Defined Method with String

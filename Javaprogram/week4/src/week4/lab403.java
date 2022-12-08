@@ -7,7 +7,6 @@ public class lab403 {
         System.out.print("Message : ");
         String Message= scan.nextLine();
         Message.toLowerCase();
-        int index=0;
         if(Message.indexOf("nichi")>=0)
         {
         	System.out.println("Nichi is a sentence");
