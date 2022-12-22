@@ -35,11 +35,11 @@ public class lab605 {
 		{
 			if(number[i]%2!=0)
 			{
-				odd = number[i]+"";
-				JOptionPane.showMessageDialog(null,"List of odd number "+ odd);
+				odd+= number[i]+" ";
+				
 			}
 			}
-			
+		JOptionPane.showMessageDialog(null,"List of odd number "+ odd);
 		}
 		
 
