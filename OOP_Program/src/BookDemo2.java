@@ -19,6 +19,6 @@ public class BookDemo2 {
 		}
 		JOptionPane.showMessageDialog(null, "Book title: "+Book.getTitle()+
 				"\nAuthor name : "+Book.getAuthor().getName()+"("+Book.getPage()+" pages"+")"+
-				"\nAuthor e-mail: ");
+				"\nAuthor e-mail: "+Book.getAuthor().getEmail());
 	}
 }
