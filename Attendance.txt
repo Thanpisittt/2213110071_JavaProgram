@@ -1,5 +1,5 @@
-Date : 9-feb-2023
+Date : 16-feb-2023
 StudentID : 2213110071
 Full name(english) : Thanpisit chanarsai
 AKA:shokun
-Classdetail: file and exception handling
+Classdetail: file (write & read)
